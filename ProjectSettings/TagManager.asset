@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - EnemyBullet
+  - PlayerBullet
+  - Hostile
+  - Friends
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Camera
+  - 
+  - Friends
+  - Hostiles
+  - HostileBullets
+  - FriendsBullets
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: HostileBullets
+    uniqueID: 2931890359
+    locked: 0
+  - name: FriendsBullets
+    uniqueID: 2140740473
+    locked: 0
+  - name: Hostile
+    uniqueID: 354529793
+    locked: 0
+  - name: Friends
+    uniqueID: 1746608557
+    locked: 0
+  - name: Explosions
+    uniqueID: 4148025997
+    locked: 0
